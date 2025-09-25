@@ -24,8 +24,7 @@ A responsive weather dashboard built with **React** that displays real-time **mi
 
 ```bash
 git clone https://github.com/jayapatidar123/Build-a-Weather-Dashboard.git
-cd weatherInfo
-cd weatherinformation
+cd Build-a-Weather-Dashboard
 npm install
 npm run dev
 
